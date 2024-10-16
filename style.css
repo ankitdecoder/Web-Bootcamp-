@@ -1,0 +1,64 @@
+.main
+ {
+   padding:0;
+   width:auto;
+   height:60px;
+   background-color:red;
+   justify-content:center;
+   display:flex;
+   align-items:center;
+ }
+
+ #main-h1
+  {
+    color:whitesmoke;
+  }
+
+                                  /* Sub Main-1 */
+.submain-1
+ {
+    background-color:whitesmoke;
+    width:auto;
+   length:auto;
+ }        
+ 
+ #community-1
+  {
+    height:500px;
+    width:2350px;
+  }
+
+  #second-h1
+   {
+    color:red;
+    text-align: center;
+   }
+
+   .container-1
+    {
+        display:flex;
+        flex-direction:row;
+        align-items: center;
+        align-content:baseline;
+    }
+
+   #input-1
+    {
+        height: 25px;
+        width: auto;
+        font-size:large;
+        
+    }
+    #input-2
+     {
+        height:25px;
+        width:auto;
+     }
+
+     .container-2
+     /* inactive hai abhi */
+      {
+        margin-top:100px;
+        font-size:larger;     
+       
+      }
